@@ -1,10 +1,10 @@
 import tweepy
 import csv
 
-consumer_key = 'pkW6W1c3DCzT2ecuXAGqLjBVS'
-consumer_secret = '6uD1r5nxZJASlPsGsvvGoHsQn4n38rcusIuiiwc4Mrbjy8NFSB'
-access_token = '803328014121635840-CkGqI64IoYpOQeGBaVwXz0LnU1UbZdw'
-access_secret = 'Uyo9Hw8CN0tEKPlWkMVGbCOk2pzcLh7f7ghm1BDBhhEo8'
+consumer_key = 'xxxx'
+consumer_secret = 'xxxx'
+access_token = 'xxxx'
+access_secret = 'xxxx'
 
 
 
